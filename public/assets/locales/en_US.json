@@ -1,0 +1,16 @@
+{
+  "app_component_t": {
+    "app_title": "React i18next Demo",
+    "welcome_to_react": "Welcome to React and react-i18next",
+    "introduction": "This file is giving us a demo of using react-i18next for multiple language.",
+    "current_language": "The current language is {{lang}}."
+  },
+  "class_component": {
+    "class_title": "This is a class component",
+    "translation_render_props": "Class Component achieves the function of multilingual switching through the render prop of Translation."
+  },
+  "hoc_component":{
+    "hoc_title": "This is a class component too.",
+    "translation_render_props": "If it is Class components, you can also use the higher-order component withTranslation to get the corresponding language content."
+  }
+}

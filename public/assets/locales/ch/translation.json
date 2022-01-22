@@ -1,6 +1,0 @@
-{
-  "app_title": "React i18next 示范",
-  "welcome_to_react": "欢迎来到React和react-i18next",
-  "introduction": "此文件为我们示范如何使用react-i18next进行多语系翻译。",
-  "current_language": "當前語言是 {{lang}}。"
-}

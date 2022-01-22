@@ -1,0 +1,16 @@
+{
+  "app_component_t": {
+    "app_title": "React i18next デモ",
+    "welcome_to_react": "Reactとreact-i18nextへようこそ",
+    "introduction": "このファイルは、複数の言語でreact-i18nextを使用するデモを提供しています。",
+    "current_language": "現在の言語は {{lang}}。"
+  },
+  "class_component": {
+    "class_title": "これは class component です",
+    "translation_render_props": "Class component は Translation の render props を介して多言語スイッチングの機能を実現します。"
+  },
+  "hoc_component":{
+    "hoc_title": "これも class component です。",
+    "translation_render_props": "Class component の場合、高次コンポーネント withTranslation を使用して、対応する言語コンテンツを取得することもできます。"
+  }
+}

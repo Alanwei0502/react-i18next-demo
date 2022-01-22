@@ -1,0 +1,16 @@
+{
+  "app_component_t": {
+    "app_title": "React i18next 示範",
+    "welcome_to_react": "歡迎來到React和react-i18next",
+    "introduction": "此文件為我們示範如何使用react-i18next進行多語系翻譯。",
+    "current_language": "當前語言是 {{lang}}。"
+  },
+  "class_component": {
+    "class_title": "這是一個 class component",
+    "translation_render_props": "Class Component 透過 Translation 的 render prop 來達成多語系切換的功能"
+  },
+  "hoc_component":{
+    "hoc_title": "這也是一個 class component",
+    "translation_render_props": "若是 Class components 的話，也可以使用高階組件 withTranslation 來取得對應語言內容。"
+  }
+}
