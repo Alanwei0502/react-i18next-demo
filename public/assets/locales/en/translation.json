@@ -1,0 +1,6 @@
+{
+  "app_title": "React i18next Demo",
+  "welcome_to_react": "Welcome to React and react-i18next",
+  "introduction": "This file is giving us a demo of using react-i18next for multiple language.",
+  "current_language": "The current language is {{lang}}."
+}

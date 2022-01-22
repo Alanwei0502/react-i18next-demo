@@ -1,0 +1,6 @@
+{
+  "app_title": "React i18next デモ",
+  "welcome_to_react": "Reactとreact-i18nextへようこそ",
+  "introduction": "このファイルは、複数の言語でreact-i18nextを使用するデモを提供しています。",
+  "current_language": "現在の言語は {{lang}}"
+}

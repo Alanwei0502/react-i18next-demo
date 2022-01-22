@@ -1,0 +1,10 @@
+.flag{
+  display: flex;
+}
+img{
+  margin-right: 1rem;
+  cursor: pointer;
+}
+img:hover{
+  transform: translateY(-5px);
+}
